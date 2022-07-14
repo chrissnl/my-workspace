@@ -1,2 +1,2 @@
-# my-workspace
-My place to test, dump info, etc
+# ebc-working
+Personal workspace for tasks, initiatives relating to EBC
